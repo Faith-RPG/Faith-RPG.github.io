@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":6,"description":"An elegant and simple short sword crafted from Soothe\nTown's Ashwood trees.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":320,"name":"Ashwood Swiftblade","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"An elegant and simple axe crafted from Soothe\nTown's trees.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":323,"name":"Mourning Wood Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"An elegant and simple cane crafted from Soothe\nTown's Redwood trees.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":325,"name":"Redwood Energy Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"An elegant and simple bow crafted from Soothe\nTown's Ashwood trees.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":326,"name":"Ashwood Straight Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":6,"description":"A sword imbued with demonic power. Grants user immense\nAttack but heavily reduces HP.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Demonic Sword","note":"","params":[-25,0,50,0,0,0,0,0],"price":1000,"wtypeId":2},
+{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":7,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

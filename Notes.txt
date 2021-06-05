@@ -1,0 +1,12 @@
+SV_Spider Notetag Preferred Setting:
+
+
+<Sideview Battler: SV_Spider>
+<Sideview No Collapse>
+ 
+<Sideview Attack Motion: swing>
+<Sideview Attack Motion: thrust>
+<Sideview Attack Motion: missile>
+ 
+<Sideview Width: 160>
+<Sideview Height: 160>

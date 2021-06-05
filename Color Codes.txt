@@ -1,0 +1,11 @@
+\C[1] = Commands, skills (Attack/Guard/Magic, etc)   and name of places within a map like an inn 
+\C[3] = Map names (not houses or inn) 
+\C[5] = Quests, Jobs, Errand, nightmare, state, basically information about something
+\C[6] = People, possitive %
+\C[10] = Demons and HP, negative %, and damage, and enemies.
+\C[14] = Map regions, part of world map.
+\C[17] = Angels
+\C[18] = Key items
+\C[20] = Consummable items
+\C[28] = party, stats 
+\C[30] = Items needed for quests, generic items that have no names, i.e "ingredients"

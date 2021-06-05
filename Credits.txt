@@ -1,0 +1,6 @@
+Avery            - Succubs Sprite/Face
+Chalkdust        - spider/scorpion sprites
+Kadokawa         - Sprites, tiles, plugin, etc
+ninjaconor       - Dog
+Moghunter        - Battle/Game
+Yanfly           - Battle/Game
